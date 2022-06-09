@@ -7,17 +7,17 @@ const os = require('os')
 ‎‎ 
 ╭─────────────────────╮
 │
-│•  بوبيز بوت هو بوت واتساب يقدم لك 
+│•  شرغو بوت هو بوت واتساب يقدم لك 
 │• خدمات رائعة اذا كنت لا تعرف 
 │• كيف تشغل البوت لماذا لا تسأل صاحبه?
-│• قم بزيارة صفحته على الفيسبوك لتعرف 
-│• الكثير عن البوتات و ايضا ستجد طريقة
-│• صنع بوت بنفسك و بسهولة
+│• قم بزيارته على رقمه بالواتساب 
+│• https://wa.me/212703867016
+│• ماذا تنظر جرب بوت حالا  
 │• 
-│ _> رابط صفحة صاحب البوت ;)_
-│www.instagram.com/noureddine_ouafy
+│ _> بوت من صنع يوسف الشرقي ;)_
+│https://instagram.com/charq_iii
 ╰─────────•◈•─────────╯
-await conn.sendTBI2(m.chat, context.trim(), wm,thumburl,`انستغرامي `, `https://www.instagram.com/noureddine_ouafy`, null,null, `الاوامر`, `${ usedPrefix}lst`,m)
+await conn.sendTBI2(m.chat, context.trim(), wm,thumburl,`my instagram `, `https://instagram.com/charq_iii`, null,null, `الاوامر`, `${ usedPrefix}lst`,m)
 }
 handler.help = ['ᴍᴇɴᴜ']
 handler.tags = ['main']
